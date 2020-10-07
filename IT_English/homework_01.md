@@ -4,7 +4,7 @@ Ken：嗯。你好，Betty先生，我从你的简历中了解到你本科的学
 > made a change in your major -> from xxx to yyy -> according to the resume -> why
 > 在正式场合发出询问，需要注意礼貌用语，如：Could you please tell me why?
 
-betty: 对于软件工程师的标准，在公司里和计算机领域有着激烈的争论。
+Betty: 对于软件工程师的标准，在公司里和计算机领域有着激烈的争论。
 
 > focus: 关于...标准的争论
 > 这句话用there be 句型比较合适
@@ -34,7 +34,7 @@ Ken: 这很好，因为我们公司也会做这种区分
 > 转换说法，先说应该提升自己，然后说如果不提升就只能做团队成员
 > should upgrade themselves through training ... if not, ... can only be normal members of the team
 
-betty: 这就是为什么我要从自由职业者向公司职位转变的原因
+Betty: 这就是为什么我要从自由职业者向公司职位转变的原因
 
 > focus: 转变的原因
 > 自由职业者：free lancer / self-employed
