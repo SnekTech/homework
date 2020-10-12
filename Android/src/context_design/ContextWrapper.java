@@ -1,6 +1,6 @@
 package context_design;
 
-public class ContextWrapper extends Context {
+public abstract class ContextWrapper extends Context {
 
     Context mBase;
 
@@ -10,12 +10,8 @@ public class ContextWrapper extends Context {
     }
 
     @Override
-    public void start() {
-        mBase.start();
-    }
+    public abstract void start();
 
     @Override
-    public String getDescription() {
-        return mBase.getDescription();
-    }
+    public abstract String getDescription();
 }
