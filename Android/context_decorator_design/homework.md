@@ -1,5 +1,7 @@
 # Context的装饰器模式实现思路
 
+> 佘玉非 SA20225386
+
 `Context`是抽象基类，表示一个应用运行的上下文，在装饰器模式中充当基础组件。
 
 ```java
@@ -31,7 +33,7 @@ public class ContextImpl extends Context {
 ```java
 public abstract class ContextWrapper extends Context {
 
-    Context mBase;v
+    Context mBase;
 
     public ContextWrapper(Context context)
     {
